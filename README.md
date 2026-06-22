@@ -11,7 +11,7 @@ replicate the FTSE MIB: an **autoencoder** chooses which stocks to keep, a
 
 ---
 
-## The result (read this first)
+## The result
 
 The reduced portfolio tracks the index closely — return correlation **0.99**
 against the official FTSE MIB. That is the easy bar.
@@ -70,7 +70,7 @@ A Streamlit walkthrough of the whole project is in `app_presentazione.py`.
 
 ---
 
-## Methodology highlights (no lookahead)
+## Methodology highlights
 
 The pipeline is built to avoid the classic backtest traps:
 
